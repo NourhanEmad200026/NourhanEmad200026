@@ -21,9 +21,6 @@
 
 <a href="https://linkedin.com/in/nourhan-emad-318618232" target="_blank"><img src="https://img.shields.io/badge/-Nourhan%20Emad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/NourhanEmad2000" target="_blank"><img src="https://img.shields.io/badge/-Nourhan%20Emad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nourhanemad200026" alt="nourhanemad200026" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
